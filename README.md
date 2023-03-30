@@ -1,4 +1,4 @@
-## Loss Severity Analysis on Single Family Reesidential Mortgage Loans
+## Loss Severity Analysis on Single Family Residential Mortgage Loans
 
 Course Code: FIM 500
 North Carolina State University
